@@ -1,0 +1,6 @@
+@GymTracker.AIModel_HostAddress = http://localhost:5147
+
+GET {{GymTracker.AIModel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
